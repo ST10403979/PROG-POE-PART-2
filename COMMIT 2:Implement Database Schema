@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: implement database schema
+
+- Create ContractClaimSystem database
+- Design Users, Claims, Approvals, and Documents tables
+- Set up foreign key relationships and constraints
+- Add unique indexes for data integrity"
