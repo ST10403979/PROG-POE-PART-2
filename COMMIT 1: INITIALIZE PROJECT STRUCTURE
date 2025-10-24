@@ -1,0 +1,6 @@
+git add .
+git commit -m "feat: initialize WPF project with basic structure
+
+- Create main application framework
+- Set up project dependencies and references
+- Configure application entry point"
