@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: implement claim submission form
+
+- Create comprehensive claim entry form
+- Add real-time amount calculation
+- Implement form validation
+- Include period selection and work description"
