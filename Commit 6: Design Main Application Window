@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: design main application window UI
+
+- Create responsive sidebar navigation
+- Implement modern card-based dashboard design
+- Add data grid components for claims and approvals
+- Set up status badges with color coding"
