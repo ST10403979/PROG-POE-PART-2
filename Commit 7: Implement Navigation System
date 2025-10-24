@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: implement view navigation system
+
+- Add multi-view container (Dashboard, Submit Claim, My Claims)
+- Create navigation event handlers
+- Implement view switching logic
+- Add dynamic header title updates"
