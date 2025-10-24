@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: create data models and entities
+
+- Implement User, ClaimRecord, and ApprovalRecord classes
+- Add data annotations and validation properties
+- Create helper properties for UI display
+- Set up status color management system"
