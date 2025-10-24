@@ -1,0 +1,7 @@
+git add .
+git commit -m "feat: implement database connection layer
+
+- Create DatabaseHelper class with connection management
+- Add connection string configuration
+- Implement connection testing functionality
+- Set up error handling for database operations"
